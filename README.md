@@ -16,11 +16,17 @@ emotional responses as data.
 #Dependencies:
 
 OpenCV
+
 TensorFlow
+
 Keras
+
 PyCharm - i have run my test.py file in the pyCharm for testing my project accuracy and i found that it was  70% accurate in detecting the emotions of a face.
+
 Matplotlib
+
 pandas
+
 Numpy
 
 I have mentioned all the novelty of the project in my Face_Emotion_Assignmnent.pynb colab file  and aslo mention some limitations of my project and also providing some suggestion to enhancing the project to make the model more accurate and precise.
